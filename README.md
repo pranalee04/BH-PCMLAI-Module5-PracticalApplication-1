@@ -3,7 +3,7 @@ This repository is the solution for practical assignment 1 for Module 5 of the B
 
 ## Will a Customer Accept the Coupon?
 
-Please use the below link to access the [assignment_5_1](https://github.com/pranalee04/BH-PCMLAI-Module5-PracticalApplication-1/blob/main/assignment_5_1_starter)
+Please use the link  [assignment_5_1] (https://github.com/pranalee04/BH-PCMLAI-Module5-PracticalApplication-1/blob/main/assignment_5_1_starter) to access the assignment 5.1
 
 ------
 
