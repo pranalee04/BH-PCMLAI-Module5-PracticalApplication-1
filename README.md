@@ -3,7 +3,8 @@ This repository is the solution for practical assignment 1 for Module 5 of the B
 
 ## Will a Customer Accept the Coupon?
 
-Goto https://github.com/pranalee04/BH-PCMLAI-Module5-PracticalApplication-1/blob/main/assignment_5_1_starter/prompt.ipynb for complete Jupyter Notebook.
+Please use the below link to access the assignment_5_1
+https://github.com/pranalee04/BH-PCMLAI-Module5-PracticalApplication-1/blob/main/assignment_5_1_starter
 ------
 
 **Context**
@@ -78,10 +79,7 @@ Please find the findings below for this notebook:
 
 For more details, please check the notebook.
 
-## Link
 
-
-https://github.com/pranalee04/BH-PCMLAI-Module5-PracticalApplication-1/blob/main/assignment_5_1_starter
 
 
  ### Next Steps and Recommendations
