@@ -73,12 +73,11 @@ The project file structure is as follows:
 
 Please find the findings below for this notebook:
 
-- People of age group below 25 tend to accept more coupons.
-- People with partners and friends tend to accept more coupons.
-- People visiting more than once tend to accept coupons more (bar, coffee house, etc.)
-
-For more details, please check the notebook.
-
+- Coffee House coupons were most accepted, followed by Restaurant, Bar coupon acceptance was only 11.5 %
+- Females accepted more Coffee House coupons while Males accepted more Bar cupon, however, Take out or Carry Away and both genders almost equally accepted cheap 
+- Percentage of people who don't have kids have an income less than 50k, are younger than 30 years, and visit cheap restaurants will accept a coupon for bars 15.73 % times
+- The likelihood people age under 35 also accepts other types of coupons is high if they earb salary less than 50k and don't have kids
+- People with occupation Education&Training&Library are more likely to accept coupon
 
 
 
