@@ -83,7 +83,7 @@ For more details, please check the notebook.
 
 
  ### Next Steps and Recommendations
- - Need more data on Car
+ - Need more data on Car column
 
 ------
 
