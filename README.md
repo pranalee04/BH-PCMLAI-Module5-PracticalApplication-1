@@ -6,7 +6,7 @@ This repository is the solution for practical assignment 1 for Module 5 of the B
 
 ## Will a Customer Accept the Coupon?
 
-Goto [prompt.ipynb](prompt.ipynb) for complete Jupyter Notebook.
+Goto https://github.com/pranalee04/BH-PCMLAI-Module5-PracticalApplication-1/blob/main/assignment_5_1_starter/prompt.ipynb for complete Jupyter Notebook.
 ------
 
 **Context**
