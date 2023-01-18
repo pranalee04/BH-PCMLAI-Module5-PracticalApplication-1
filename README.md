@@ -71,14 +71,19 @@ The project file structure is as follows:
 
 ## Overall Analysis
 
-Please find the findings below for this notebook:
-
-- Coffee House coupons were most accepted, followed by Restaurant, Bar coupon acceptance was only 11.5 %
-- Females accepted more Coffee House coupons while Males accepted more Bar cupon, however, Take out or Carry Away and both genders almost equally accepted cheap 
-- Percentage of people who don't have kids have an income less than 50k, are younger than 30 years, and visit cheap restaurants will accept a coupon for bars 15.73 % times
-- The likelihood people age under 35 also accepts other types of coupons is high if they earb salary less than 50k and don't have kids
-- People with occupation Education&Training&Library are more likely to accept coupon
-
+1. Coffee House coupons were most accepted, followed by cheap Restaurant and Carry out; Bar coupon acceptance was only 11.5 %. Expensive restaurant coupons were least accepted
+2. People under 30 accepted more coupons. 
+3. Females accepted more Coffee House coupons while Males accepted more Bar cupon, however, Take out or Carry Away and both genders almost equally accepted cheap restaurants
+4. Percentage of people who don't have kids have an income less than 50k, are younger than 30 years, and visit cheap restaurants will accept a coupon for bars 15.73 % times
+5. The likelihood people age under 35 also accepts other types of coupons is high if they earn a salary of less than 50k and don't have kids. 
+6. Percentage of people who went to Bar under 3 days 81.34517766497463 %
+7. Percentage of people who went to Bar more than 3 days 18.654822335025383 %
+8. People who visit Bar less than 3 and in the range of 4 to 8 are more likely to accept the coupon. Interestingly people who visit bar often are less likely to take the coupon
+9. The acceptance rate among people who go to a bar more than once a month and are over the age of 25 is 70.92 %
+10. The acceptance rate among people who go to a bar more than once a month and are under the age of 25 is 29.08 %
+11. Percentage of people who are not Kids and  Widowed and go to Bar is 95.92 %
+12. People who go to bars more than once a month and are under the age of 30 is 60.20 %
+14. People who go to cheap restaurants more than 4 times a month and their income is less than 50K is 48.25 %.
 
 
  ### Next Steps and Recommendations
